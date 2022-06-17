@@ -12,5 +12,4 @@ namespace sentient
 	{
 		while (true);
 	}
-
 }

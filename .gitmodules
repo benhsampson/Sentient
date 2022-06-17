@@ -1,0 +1,3 @@
+[submodule "Sentient/vendor/spdlog"]
+	path = Sentient/vendor/spdlog
+	url = https://github.com/gabime/spdlog
